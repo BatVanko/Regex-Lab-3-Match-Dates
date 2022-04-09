@@ -1,4 +1,4 @@
-# Regex-Lab-Compose-the-Regular-Expression
+# Regex-Lab-3-Match Dates
 Write a program, which matches a date in the format "dd{separator}MMM{separator}yyyy". Use capturing groups in your regular expression.
 Compose the Regular Expression
 Every valid date has the following characteristics:
